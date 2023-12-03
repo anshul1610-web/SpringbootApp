@@ -10,7 +10,7 @@ public class SpringbootAppApplication {
 		SpringApplication.run(SpringbootAppApplication.class, args);
 		System.out.println("SpringBootApp Launched Successfully");
 		System.out.println("SpringBootApp Launched Successfully");
-		System.out.println("SpringBootApp Launched Successfully")
+		System.out.println("SpringBootApp Launched Successfully");
 	}
 
 }
